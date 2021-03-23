@@ -1,5 +1,8 @@
-# Modern-hello-world
-Moder-hello-world
+#include <stdio.h>
 
+int main () {
 
-hi humans :D
+printf ("Modern\thello\tworld\n");
+
+return 0 ; 
+}
